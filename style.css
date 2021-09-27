@@ -1,0 +1,56 @@
+h1{
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    /* familia de fuente */
+    font-size: 1.5em;
+    /* tamaño de fuente */
+    font-weight: ;
+    /* grosor de la fuente */
+    /*font-style: italic;
+    /* estilo de la fuente */
+}
+
+.titulos {
+    font-style: italic;
+}
+
+table, th, td{
+    border: 2px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+}
+
+.alineacion-imagen { 
+    float: right;
+    /* flota una imagen left - right */
+    width: ;
+    /* ancho */
+    height: ;
+    /* alto */
+    position: relative;
+    right: 159px;
+}
+
+.alineacion-arg {
+    float: right;
+    width: 333px;
+    height: 216px;
+    position: relative;
+    right: 10% ;
+}
+
+dl, table{
+    margin:auto;
+    width: 80%;
+}
+dd {
+    margin: 30px auto;
+}
+
+.menu {
+    margin: auto;
+    width: 95%;
+}
